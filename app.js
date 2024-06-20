@@ -16,7 +16,7 @@ function exibirTextoNaTela(tag, texto){
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1', 'Vtnc do número secreto');
+    exibirTextoNaTela('h1', 'Pietro do número secreto');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
 }
 exibirMensagemInicial()
